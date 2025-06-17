@@ -26,16 +26,17 @@
   </a>
 </p>
 
+<!-- İstatistik kartları şeffaf arka planlı olacak şekilde ayarlandı -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eymenyaman&show_icons=true&locale=en&layout=compact" alt="eymenyaman" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eymenyaman&show_icons=true&locale=en&layout=compact&theme=transparent" alt="eymenyaman" />
 </p>
 
 <p>&nbsp;</p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eymenyaman&show_icons=true&locale=en" alt="eymenyaman" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eymenyaman&show_icons=true&locale=en&theme=transparent" alt="eymenyaman" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eymenyaman" alt="eymenyaman" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eymenyaman&theme=transparent" alt="eymenyaman" />
 </p>
